@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfestcursor.cpp
+../../DasWahreSchlagerfest/daswahreschlagerfestcursor.cpp

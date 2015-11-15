@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfesttile.cpp
+../../DasWahreSchlagerfest/daswahreschlagerfesttile.cpp

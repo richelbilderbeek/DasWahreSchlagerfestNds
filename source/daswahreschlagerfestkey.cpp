@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfestkey.cpp
+../../DasWahreSchlagerfest/daswahreschlagerfestkey.cpp

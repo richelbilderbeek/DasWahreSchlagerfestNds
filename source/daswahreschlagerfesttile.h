@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfesttile.h
+../../DasWahreSchlagerfest/daswahreschlagerfesttile.h

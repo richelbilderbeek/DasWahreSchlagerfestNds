@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfestcursor.h
+../../DasWahreSchlagerfest/daswahreschlagerfestcursor.h

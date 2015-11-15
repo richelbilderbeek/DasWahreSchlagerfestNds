@@ -6,7 +6,11 @@ INCLUDEPATH += \
 
 SOURCES += \
     ../../DasWahreSchlagerfest/daswahreschlagerfestwidget.cpp \
-    ../../DasWahreSchlagerfest/daswahreschlagerfestdisplay.cpp
+    ../../DasWahreSchlagerfest/daswahreschlagerfestdisplay.cpp \
+    ndsgamedialog.cpp \
+    picbeer.cpp \
+    picbratwurst.cpp \
+    picempty.cpp
 
 HEADERS  += \
     ../../DasWahreSchlagerfest/daswahreschlagerfestwidget.h \

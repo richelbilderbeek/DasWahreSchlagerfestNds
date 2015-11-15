@@ -1,1 +1,1 @@
-../../GameDasWahreSchlagerfest/daswahreschlagerfestkey.h
+../../DasWahreSchlagerfest/daswahreschlagerfestkey.h
